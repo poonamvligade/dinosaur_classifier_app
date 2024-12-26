@@ -1,2 +1,2 @@
-Hi, this is my fastai homework for prractical deep leaning for coders hosted on Jarvislabs.ai
+Hi, this is my fastai homework for Practical deep learning for coders hosted on Jarvislabs.ai
 
